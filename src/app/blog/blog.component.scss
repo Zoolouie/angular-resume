@@ -1,0 +1,17 @@
+.container {
+    flex-direction: column;
+}
+
+.box {
+    display: flex;
+}
+
+.sticky-widget {
+    margin: auto;
+    padding: 1em;
+    border: 1px solid #dfe2e5;
+    border-radius: 4px;
+    background-color: #fff;
+    width: 40%;
+    margin-top: 20px;
+}
